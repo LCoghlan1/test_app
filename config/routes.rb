@@ -3,5 +3,7 @@ Rails.application.routes.draw do
   
   root 'pages#home'
   get 'about', to: 'pages#about'
+  get 'vanja', to: 'pages#vanja'
+  get 'podgeandedel', to: 'pages#podgeandedel'
   
 end

@@ -4,4 +4,10 @@ class PagesController < ApplicationController
     
     def about
     end
+    
+    def vanja
+    end
+    
+    def podgeandedel
+    end
 end
